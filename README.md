@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="P. Tejas Kumar — Systems Architect, Full-Stack Engineer, Applied AI" width="100%" />
+<img src="./assets/header.svg" alt="Punyap Tejas Kumar — Systems Architect, Full-Stack Engineer, Applied AI" width="100%" />
 
 <br />
 
@@ -17,11 +17,9 @@
 
 <br />
 
----
+<img src="./assets/title_focus.svg" height="44" alt="Current Focus" />
 
 <br />
-
-## Current Focus
 
 * Building low-latency retrieval & voice-enabled AI pipelines (`FastAPI`, `LanceDB`, `Groq LPU`)
 * Engineering interactive 3D hardware & OS algorithm visualizers (`Three.js`, `WebGL`, `Canvas`)
@@ -30,11 +28,9 @@
 
 <br />
 
----
+<img src="./assets/title_stack.svg" height="44" alt="Tech Stack" />
 
 <br />
-
-## Tech Stack
 
 ### Languages
 
@@ -68,11 +64,7 @@
 
 <br />
 
----
-
-<br />
-
-## Flagship Systems & Live Deployments
+<img src="./assets/title_projects.svg" height="44" alt="Flagship Systems & Live Deployments" />
 
 <br />
 
@@ -91,11 +83,7 @@
 
 <br />
 
----
-
-<br />
-
-## GitHub Analytics
+<img src="./assets/title_analytics.svg" height="44" alt="GitHub Analytics" />
 
 <br />
 
@@ -125,11 +113,9 @@
 
 <br />
 
----
+<img src="./assets/title_interests.svg" height="44" alt="Engineering Interests" />
 
 <br />
-
-## Engineering Interests
 
 ```text
 Systems & Kernel Simulation
@@ -146,6 +132,6 @@ Security & Edge Networking
 
 <div align="center">
 
-<a href="https://interactive-portfolio-six-eta.vercel.app">Portfolio</a> &nbsp;•&nbsp; <a href="https://github.com/PTejasKr">GitHub</a> &nbsp;•&nbsp; <a href="mailto:punyaptejaskumar@gmail.com">Email</a>
+**Punyap Tejas Kumar** &nbsp;•&nbsp; <a href="https://interactive-portfolio-six-eta.vercel.app">Portfolio</a> &nbsp;•&nbsp; <a href="https://github.com/PTejasKr">GitHub</a> &nbsp;•&nbsp; <a href="mailto:punyaptejaskumar@gmail.com">Email</a>
 
 </div>
