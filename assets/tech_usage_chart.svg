@@ -1,6 +1,6 @@
-<svg width="960" height="334" viewBox="0 0 960 334" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="960" height="334" rx="12" fill="#0D1117"/>
-  <rect x="0.5" y="0.5" width="959" height="333" rx="11.5" stroke="#21262D"/>
+<svg width="960" height="365" viewBox="0 0 960 365" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="365" rx="12" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="959" height="364" rx="11.5" stroke="#21262D"/>
   <path d="M266 8Q240 8 203.5 21.5Q167 35 131.5 56.0Q96 77 72.5 99.5Q49 122 49 141Q49 167 52.0 207.5Q55 248 55 293V501Q55 582 93.5 615.0Q132 648 214 648Q242 648 276.0 631.0Q310 614 341.5 588.5Q373 563 393.5 535.0Q414 507 414 485Q414 466 413.5 428.5Q413 391 412.0 344.5Q411 298 410.5 252.0Q410 206 410 170Q410 91 373.5 49.5Q337 8 266 8ZM189 99Q258 99 283.0 132.0Q308 165 308 241Q308 255 308.5 283.0Q309 311 310.5 345.5Q312 380 313.0 414.5Q314 449 314.5 476.0Q315 503 315 516Q315 537 305.0 546.0Q295 555 271 555Q224 555 199.0 545.0Q174 535 165.5 515.0Q157 495 157 463V250Q157 202 154.5 171.0Q152 140 152 128Q152 99 189 99Z" fill="#F0F6FC" transform="translate(28.00, 42.00) scale(0.028000, -0.028000)"/>
   <path d="M227 -2Q216 -2 195.5 12.5Q175 27 153.0 48.0Q131 69 114.5 87.5Q98 106 96 115Q74 204 60.0 257.5Q46 311 39.5 340.5Q33 370 33 386Q33 398 36 409H13L-36 478L-28 494H99L145 427V414Q123 410 115.0 397.0Q107 384 107 364Q107 353 112.0 328.5Q117 304 131.0 251.5Q145 199 172 105Q186 141 200.0 178.5Q214 216 233.0 270.5Q252 325 281 409H237L191 478L198 494H323L384 410Q342 285 314.0 204.5Q286 124 269.0 79.0Q252 34 242.5 16.0Q233 -2 227 -2Z" fill="#F0F6FC" transform="translate(41.24, 42.00) scale(0.028000, -0.028000)"/>
   <path d="M246 7Q222 7 187.0 19.5Q152 32 117.5 52.5Q83 73 60.0 97.5Q37 122 37 146Q37 170 40.5 229.0Q44 288 44 370Q44 500 186 500Q208 500 237.0 486.5Q266 473 293.0 451.5Q320 430 338.0 407.0Q356 384 356 364V282Q356 201 266 201Q238 201 202.0 204.5Q166 208 138 213Q137 180 136.5 153.5Q136 127 136 123Q136 107 144.0 100.0Q152 93 173 93Q204 93 240.5 102.5Q277 112 306 131H321L375 49Q356 31 318.5 19.0Q281 7 246 7ZM141 338Q141 330 140.5 314.0Q140 298 140 278Q169 275 207 275Q236 275 247.5 289.5Q259 304 259 334V388Q259 399 253.0 407.0Q247 415 227 415Q187 415 164.0 398.5Q141 382 141 338Z" fill="#F0F6FC" transform="translate(53.05, 42.00) scale(0.028000, -0.028000)"/>
@@ -41,33 +41,37 @@
   <path d="M246 7Q222 7 187.0 19.5Q152 32 117.5 52.5Q83 73 60.0 97.5Q37 122 37 146Q37 170 40.5 229.0Q44 288 44 370Q44 500 186 500Q208 500 237.0 486.5Q266 473 293.0 451.5Q320 430 338.0 407.0Q356 384 356 364V282Q356 201 266 201Q238 201 202.0 204.5Q166 208 138 213Q137 180 136.5 153.5Q136 127 136 123Q136 107 144.0 100.0Q152 93 173 93Q204 93 240.5 102.5Q277 112 306 131H321L375 49Q356 31 318.5 19.0Q281 7 246 7ZM141 338Q141 330 140.5 314.0Q140 298 140 278Q169 275 207 275Q236 275 247.5 289.5Q259 304 259 334V388Q259 399 253.0 407.0Q247 415 227 415Q187 415 164.0 398.5Q141 382 141 338Z" fill="#F0F6FC" transform="translate(436.24, 42.00) scale(0.028000, -0.028000)"/>
   <path d="M205 3Q129 3 86.0 52.5Q43 102 26 187L58 196Q77 148 101.5 128.0Q126 108 168 108Q216 108 249.5 135.0Q283 162 283 201Q283 223 267 223Q254 223 229.5 217.0Q205 211 181.0 204.5Q157 198 145 198Q127 198 108.5 215.0Q90 232 74.0 258.5Q58 285 48.0 314.0Q38 343 38 368Q38 427 75.5 467.0Q113 507 183 507Q243 507 281.0 475.0Q319 443 339 377L304 365Q277 408 222 408Q174 408 141.0 383.0Q108 358 108 320Q108 300 127 300Q142 300 166.0 306.5Q190 313 214.0 319.0Q238 325 253 325Q276 325 298.0 299.0Q320 273 334.0 233.0Q348 193 348 151Q348 84 311.0 43.5Q274 3 205 3Z" fill="#F0F6FC" transform="translate(447.78, 42.00) scale(0.028000, -0.028000)"/>
   <path d="M35 -90Q76 -26 100.5 33.5Q125 93 135.5 159.5Q146 226 146 309Q146 430 120.5 529.0Q95 628 45 716L82 735Q159 630 197.5 515.5Q236 401 236 275Q236 148 208.0 50.0Q180 -48 121 -129L39 -104Z" fill="#F0F6FC" transform="translate(458.86, 42.00) scale(0.028000, -0.028000)"/>
-  <line x1="28" y1="54" x2="932" y2="54" stroke="#21262D" stroke-width="1"/>
-  <text x="28" y="91" fill="#E6EDF3" font-family="'SF Pro Text', 'Inter', system-ui, sans-serif" font-size="13" font-weight="600">TypeScript</text>
-  <rect x="230" y="80" width="430" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
-  <rect x="230" y="80" width="378" height="12" rx="6" fill="#3178C6"/>
-  <text x="676" y="91" fill="#8B949E" font-family="'SF Mono', Consolas, monospace" font-size="12">88%  &#8226;  11+ repos (Bob, LataTea, Daayre.ai, Dynamic QR)</text>
-  <text x="28" y="125" fill="#E6EDF3" font-family="'SF Pro Text', 'Inter', system-ui, sans-serif" font-size="13" font-weight="600">JavaScript</text>
-  <rect x="230" y="114" width="430" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
-  <rect x="230" y="114" width="344" height="12" rx="6" fill="#F7DF1E"/>
-  <text x="676" y="125" fill="#8B949E" font-family="'SF Mono', Consolas, monospace" font-size="12">80%  &#8226;  10+ repos (OS-26, Re-Card, Swacchsetu, 00lens)</text>
-  <text x="28" y="159" fill="#E6EDF3" font-family="'SF Pro Text', 'Inter', system-ui, sans-serif" font-size="13" font-weight="600">Python</text>
-  <rect x="230" y="148" width="430" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
-  <rect x="230" y="148" width="318" height="12" rx="6" fill="#3776AB"/>
-  <text x="676" y="159" fill="#8B949E" font-family="'SF Mono', Consolas, monospace" font-size="12">74%  &#8226;  9+ repos (Bob RAG, ANDA, Capsule-v2, Re-Card)</text>
-  <text x="28" y="193" fill="#E6EDF3" font-family="'SF Pro Text', 'Inter', system-ui, sans-serif" font-size="13" font-weight="600">React / Next.js / Vite</text>
-  <rect x="230" y="182" width="430" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
-  <rect x="230" y="182" width="335" height="12" rx="6" fill="#61DAFB"/>
-  <text x="676" y="193" fill="#8B949E" font-family="'SF Mono', Consolas, monospace" font-size="12">78%  &#8226;  10+ web apps & production Vercel sites</text>
-  <text x="28" y="227" fill="#E6EDF3" font-family="'SF Pro Text', 'Inter', system-ui, sans-serif" font-size="13" font-weight="600">FastAPI / Node / Express</text>
-  <rect x="230" y="216" width="430" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
-  <rect x="230" y="216" width="258" height="12" rx="6" fill="#009688"/>
-  <text x="676" y="227" fill="#8B949E" font-family="'SF Mono', Consolas, monospace" font-size="12">60%  &#8226;  7+ backend APIs & WebSocket services</text>
-  <text x="28" y="261" fill="#E6EDF3" font-family="'SF Pro Text', 'Inter', system-ui, sans-serif" font-size="13" font-weight="600">Docker / Vercel / Cloud</text>
-  <rect x="230" y="250" width="430" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
-  <rect x="230" y="250" width="309" height="12" rx="6" fill="#2496ED"/>
-  <text x="676" y="261" fill="#8B949E" font-family="'SF Mono', Consolas, monospace" font-size="12">72%  &#8226;  12+ containerized & edge deployments</text>
-  <text x="28" y="295" fill="#E6EDF3" font-family="'SF Pro Text', 'Inter', system-ui, sans-serif" font-size="13" font-weight="600">C / C++ / Go / Shell</text>
-  <rect x="230" y="284" width="430" height="12" rx="6" fill="#161B22" stroke="#21262D" stroke-width="1"/>
-  <rect x="230" y="284" width="180" height="12" rx="6" fill="#00ADD8"/>
-  <text x="676" y="295" fill="#8B949E" font-family="'SF Mono', Consolas, monospace" font-size="12">42%  &#8226;  5+ systems, algorithms & daemon tools</text>
+  <line x1="28" y1="56" x2="932" y2="56" stroke="#21262D" stroke-width="1"/>
+  <path d="M 175.00 97.00 A 118.00 118.00 0 0 1 290.91 237.11 L 230.01 225.49 A 56.00 56.00 0 0 0 175.00 159.00 Z" fill="#3178C6" stroke="#0D1117" stroke-width="2.5"/>
+  <path d="M 290.91 237.11 A 118.00 118.00 0 0 1 167.59 332.77 L 171.48 270.89 A 56.00 56.00 0 0 0 230.01 225.49 Z" fill="#F7DF1E" stroke="#0D1117" stroke-width="2.5"/>
+  <path d="M 167.59 332.77 A 118.00 118.00 0 0 1 60.71 244.35 L 120.76 228.93 A 56.00 56.00 0 0 0 171.48 270.89 Z" fill="#3776AB" stroke="#0D1117" stroke-width="2.5"/>
+  <path d="M 60.71 244.35 A 118.00 118.00 0 0 1 75.37 151.77 L 127.72 184.99 A 56.00 56.00 0 0 0 120.76 228.93 Z" fill="#61DAFB" stroke="#0D1117" stroke-width="2.5"/>
+  <path d="M 75.37 151.77 A 118.00 118.00 0 0 1 124.76 108.23 L 151.16 164.33 A 56.00 56.00 0 0 0 127.72 184.99 Z" fill="#2496ED" stroke="#0D1117" stroke-width="2.5"/>
+  <path d="M 124.76 108.23 A 118.00 118.00 0 0 1 175.00 97.00 L 175.00 159.00 A 56.00 56.00 0 0 0 151.16 164.33 Z" fill="#00ADD8" stroke="#0D1117" stroke-width="2.5"/>
+  <text x="175.0" y="211.0" text-anchor="middle" fill="#F0F6FC" font-family="Segoe UI, Inter, sans-serif" font-size="22" font-weight="700">39</text>
+  <text x="175.0" y="230.0" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Inter, sans-serif" font-size="11" letter-spacing="1.5">REPOS</text>
+  <rect x="360" y="104" width="14" height="14" rx="3" fill="#3178C6"/>
+  <text x="386" y="116" fill="#F0F6FC" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="600">TypeScript</text>
+  <text x="565" y="116" fill="#58A6FF" font-family="Consolas, monospace" font-size="13" font-weight="700">28%</text>
+  <text x="612" y="116" fill="#8B949E" font-family="Segoe UI, Inter, sans-serif" font-size="12">11+ repos (Bob, LataTea, Daayre.ai, Dynamic QR)</text>
+  <rect x="360" y="142" width="14" height="14" rx="3" fill="#F7DF1E"/>
+  <text x="386" y="154" fill="#F0F6FC" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="600">JavaScript</text>
+  <text x="565" y="154" fill="#58A6FF" font-family="Consolas, monospace" font-size="13" font-weight="700">23%</text>
+  <text x="612" y="154" fill="#8B949E" font-family="Segoe UI, Inter, sans-serif" font-size="12">10+ repos (OS-26, Re-Card, Swacchsetu)</text>
+  <rect x="360" y="180" width="14" height="14" rx="3" fill="#3776AB"/>
+  <text x="386" y="192" fill="#F0F6FC" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="600">Python</text>
+  <text x="565" y="192" fill="#58A6FF" font-family="Consolas, monospace" font-size="13" font-weight="700">20%</text>
+  <text x="612" y="192" fill="#8B949E" font-family="Segoe UI, Inter, sans-serif" font-size="12">9+ repos (Bob RAG, ANDA, Capsule-v2, Re-Card)</text>
+  <rect x="360" y="218" width="14" height="14" rx="3" fill="#61DAFB"/>
+  <text x="386" y="230" fill="#F0F6FC" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="600">React / Next.js / Vite</text>
+  <text x="565" y="230" fill="#58A6FF" font-family="Consolas, monospace" font-size="13" font-weight="700">13%</text>
+  <text x="612" y="230" fill="#8B949E" font-family="Segoe UI, Inter, sans-serif" font-size="12">10+ web apps &amp; production Vercel sites</text>
+  <rect x="360" y="256" width="14" height="14" rx="3" fill="#2496ED"/>
+  <text x="386" y="268" fill="#F0F6FC" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="600">Docker / Cloud / CI</text>
+  <text x="565" y="268" fill="#58A6FF" font-family="Consolas, monospace" font-size="13" font-weight="700">9%</text>
+  <text x="612" y="268" fill="#8B949E" font-family="Segoe UI, Inter, sans-serif" font-size="12">Vercel, Cloudflare, Nginx, Jenkins</text>
+  <rect x="360" y="294" width="14" height="14" rx="3" fill="#00ADD8"/>
+  <text x="386" y="306" fill="#F0F6FC" font-family="Segoe UI, Inter, sans-serif" font-size="14" font-weight="600">C / C++ / Go / Shell</text>
+  <text x="565" y="306" fill="#58A6FF" font-family="Consolas, monospace" font-size="13" font-weight="700">7%</text>
+  <text x="612" y="306" fill="#8B949E" font-family="Segoe UI, Inter, sans-serif" font-size="12">Systems, algorithms &amp; daemon tools</text>
 </svg>
