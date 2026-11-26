@@ -1,127 +1,151 @@
 <div align="center">
 
-# ⚡ P. Tejas Kumar (`@PTejasKr`)
-### Systems Architect · Full-Stack Engineer · Applied AI Researcher
+<img src="./assets/header.svg" alt="P. Tejas Kumar — Systems Architect, Full-Stack Engineer, Applied AI" width="100%" />
 
-<p align="center">
-  <a href="https://os26-tejaskp.vercel.app"><img src="https://img.shields.io/badge/OS--26-Live%20Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="OS-26 Live" /></a>
-  <a href="https://alphaxgen.in"><img src="https://img.shields.io/badge/AlphaXGen-Live%20Store-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="AlphaXGen Live" /></a>
-  <a href="mailto:punyaptejaskumar@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/PTejasKr"><img src="https://img.shields.io/github/stars/PTejasKr?style=for-the-badge&logo=github&color=blue" alt="Stars" /></a>
+<br />
+
+<sub>Designing low-latency interactive systems, kernel-level simulations, agentic AI infrastructure, and production web platforms.</sub>
+
+<br /><br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://interactive-portfolio-six-eta.vercel.app)
+[![OS-26](https://img.shields.io/badge/OS--26-111111?style=flat-square&logo=three.js&logoColor=white)](https://os26-tejaskp.vercel.app)
+[![Bob](https://img.shields.io/badge/Bob%20RAG-111111?style=flat-square&logo=fastapi&logoColor=white)](https://bob-pokedex.vercel.app)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:punyaptejaskumar@gmail.com)
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+## Current Focus
+
+* Building low-latency retrieval & voice-enabled AI pipelines (`FastAPI`, `LanceDB`, `Groq LPU`)
+* Engineering interactive 3D hardware & OS algorithm visualizers (`Three.js`, `WebGL`, `Canvas`)
+* Designing autonomous local daemons, edge proxies, and CI/CD release intelligence
+* Full-stack TypeScript & Next.js production web architecture
+
+<br />
+
+---
+
+<br />
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,ts,js,bash,powershell&theme=dark" alt="Languages" />
 </p>
 
-```
-  "Designing low-latency interactive systems, kernel-level simulations,
-   agentic AI infrastructure, and responsive modern web platforms."
-```
+<br />
+
+### Frontend & Graphics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,html,css&theme=dark" alt="Frontend & Graphics" />
+</p>
+
+<br />
+
+### Backend, AI & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,postgres,supabase,sqlite&theme=dark" alt="Backend & Databases" />
+</p>
+
+<br />
+
+### Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,nginx,jenkins,git,github,linux,vscode&theme=dark" alt="Cloud & Tooling" />
+</p>
+
+<br />
 
 ---
+
+<br />
+
+## Flagship Systems & Live Deployments
+
+<br />
+
+| Project | Domain | Stack | Live Deployment |
+|:---|:---|:---|:---|
+| **[OS-26](https://github.com/PTejasKr/OS-26)** | 3D Storage & Kernel Visualizer | Three.js, WebGL, Canvas, JS | [os26-tejaskp.vercel.app](https://os26-tejaskp.vercel.app) |
+| **[Bob](https://github.com/PTejasKr/Bob)** | Sub-150ms Voice RAG Pokédex | FastAPI, LanceDB, Groq, React 19 | [bob-pokedex.vercel.app](https://bob-pokedex.vercel.app) |
+| **[ANDA](https://github.com/PTejasKr/ANDA)** | Autonomous Desktop Daemon | Python, Go, Cloudflare, Docker | `Local / Fly.io` |
+| **[Capsule-v2](https://github.com/PTejasKr/Capsule-v2)** | CI/CD Changelog & PR Engine | FastAPI, Celery, Nginx, SQLite | [capsule-v2.vercel.app](https://capsule-v2.vercel.app) |
+| **[Re-Card](https://github.com/PTejasKr/Re-Card)** | Financial ML Document Parser | Python, Scikit-Learn, FastAPI | `Research / Docker` |
+| **[Chat-YO](https://github.com/PTejasKr/Chat-YO)** | Ephemeral TTC WebSocket Chat | TypeScript, WebSockets, Vite | `Self-Hosted` |
+| **[AlphaXGen](https://github.com/PTejasKr/alphaxgen)** | Print-on-Demand E-Commerce | Next.js, TypeScript, Tailwind | [alphaxgen.in](https://alphaxgen.in) |
+| **[LataTea](https://github.com/PTejasKr/LataTea)** | Corporate Brand Platform | React, Vite, TypeScript | [latatea.vercel.app](https://latatea.vercel.app) |
+| **[Daayre.ai](https://github.com/PTejasKr/Daayre.ai)** | Legal Document Workspace | React, TypeScript, Convex DB | [daayre-ai.vercel.app](https://daayre-ai.vercel.app) |
+| **[Dynamic QR](https://github.com/PTejasKr/dynamic_qr)** | Dynamic QR & Analytics | Next.js 16, TypeScript, Tailwind | [dynamic-qr-opal.vercel.app](https://dynamic-qr-opal.vercel.app) |
+
+<br />
+
+---
+
+<br />
+
+## GitHub Analytics
+
+<br />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PTejasKr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PTejasKr&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
 
 </div>
 
-## 🌐 Engineering Highlights & Real-Time Production Systems
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  Tier 1 Flagship Systems                                                                       │
-├────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  ⚡ [OS-26]              Interactive 3D Hard Drive, LRU Memory Swap Workbench & ASCII Blueprints│
-│  🤖 [ANDA]               Autonomous Desktop Butler, Background Daemon, Go Proxy, Cloudflare    │
-│  🎙️ [Bob]                Sub-150ms Kalos Pokédex Voice RAG (FastAPI, LanceDB, Groq LPU, React)│
-│  📦 [Capsule-v2]         CI/CD Changelog Engine, Celery Distributed Queue, Locust Benchmarks   │
-│  🧠 [Re-Card]            ML Research Paper: Transaction Extraction & Categorization Pipeline   │
-│  💬 [Chat-YO]            Real-Time Ephemeral WebSockets Chatroom with Time-To-Clear Eviction   │
-└────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Comprehensive Technical Arsenal
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>💻 Languages & Core Runtimes</h4>
-      <ul>
-        <li><b>Systems:</b> C, C++, Go, Python</li>
-        <li><b>Web Runtimes:</b> TypeScript, JavaScript, Node.js, Bun</li>
-        <li><b>Shell & Scripting:</b> PowerShell, Bash, Python CLI</li>
-        <li><b>Markup/Data:</b> SQL, HTML5, CSS3, JSON, YAML</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🚀 Frameworks & Libraries</h4>
-      <ul>
-        <li><b>Frontend:</b> Next.js (App Router), React 19, Vite, Vue</li>
-        <li><b>Graphics/3D:</b> Three.js, WebGL, HTML5 Canvas</li>
-        <li><b>Styling:</b> Tailwind CSS v4, Lucide Icons, Shadcn UI</li>
-        <li><b>Backend:</b> FastAPI, Express.js, Flask, WebSockets</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud, Infra & Databases</h4>
-      <ul>
-        <li><b>Cloud & Edge:</b> Vercel, Cloudflare Workers, Fly.io</li>
-        <li><b>Databases:</b> PostgreSQL, Supabase, Convex DB, SQLite</li>
-        <li><b>DevOps:</b> Docker, Docker Compose, Nginx, Jenkins CI</li>
-        <li><b>Testing & Load:</b> Locust, PyTest, Jest, Vitest</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Featured Open-Source Projects
-
-### 1. [OS-26 // The Storage Algorithm Collection](https://github.com/PTejasKr/OS-26)
-> **Interactive 3D Hard Drive, LRU Memory Swap Workbench & ASCII Blueprints**
-* **Core Tech:** WebGL, Three.js, Canvas 2D, JavaScript.
-* **Architecture:** Hardware-level physical disc geometry, spindle revolutions, arm seek physics, and OS kernel page replacement algorithms visualized in real-time.
-* 🚀 **Live Production:** [os26-tejaskp.vercel.app](https://os26-tejaskp.vercel.app)
-
-### 2. [ANDA // Autonomous Desktop Butler & Daemon](https://github.com/PTejasKr/ANDA)
-> **FRIDAY-style Local System Automation Agent**
-* **Core Tech:** Python, Go, Docker, Cloudflare Workers, Fly.io.
-* **Architecture:** Persistent background hotkey listener, inter-process communication bus, and asynchronous workflow execution engine.
-
-### 3. [Capsule-v2 // Enterprise PR & Changelog Platform](https://github.com/PTejasKr/Capsule-v2)
-> **AI-Powered Release Intelligence for Distributed CI/CD Workflows**
-* **Core Tech:** Python (FastAPI), Celery, Nginx, Docker, Chrome Extension.
-* **Architecture:** Multi-container orchestration, asynchronous task dispatching, and high-concurrency PR delta analysis.
-
-### 4. [Re-Card // Financial ML Document Intelligence](https://github.com/PTejasKr/Re-Card)
-> **Machine Learning Research Paper Implementation for Credit Statement Parsing**
-* **Core Tech:** Python, Scikit-Learn, Pandas, FastAPI, Netlify/Docker.
-* **Architecture:** End-to-end inference pipeline transforming unstructured PDF/image financial bills into classified transactional vectors.
-
----
-
-## 📊 Live Production Deployments (Verified 0-Cost Vercel Stack)
-
-| Application | Technology | Live URL | Deployment Health |
-|:---|:---|:---|:---:|
-| **OS-26** | Three.js / WebGL | [os26-tejaskp.vercel.app](https://os26-tejaskp.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **Bob (Kalos Pokédex)** | React 19 / FastAPI / LanceDB | [bob-pokedex.vercel.app](https://bob-pokedex.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **AlphaXGen** | Next.js / Tailwind | [alphaxgen.in](https://alphaxgen.in) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **LataTea** | React / Vite / Tailwind | [latatea.vercel.app](https://latatea.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **Interactive Portfolio** | TypeScript / GSAP / Supabase | [interactive-portfolio-six-eta.vercel.app](https://interactive-portfolio-six-eta.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **Daayre.ai** | React / Convex DB | [daayre-ai.vercel.app](https://daayre-ai.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **Dynamic QR** | Next.js 16 / Tailwind | [dynamic-qr-opal.vercel.app](https://dynamic-qr-opal.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **Capsule-v2** | FastAPI / Celery / SQLite | [capsule-v2.vercel.app](https://capsule-v2.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **Enrique & Co.** | Next.js / SSR | [enrique-co-github-io.vercel.app](https://enrique-co-github-io-tejaskps-projects.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| **Velo Agent** | React / Tailwind | [velo-agent.vercel.app](https://velo-agent.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-
----
-
-## 📈 GitHub Activity & Engineering Metrics
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PTejasKr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tejas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTejasKr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PTejasKr&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+
 </div>
 
+<br />
+
 <div align="center">
-  <br />
-  <sub>Crafted with engineering rigor and open-source principles. Connected with <a href="https://github.com/PTejasKr">@PTejasKr</a>.</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PTejasKr&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+## Engineering Interests
+
+```text
+Systems & Kernel Simulation
+Low-Latency Retrieval Architectures
+Autonomous Agentic Infrastructure
+Distributed Task Queues & CI/CD
+Interactive WebGL / 3D Rendering
+Security & Edge Networking
+```
+
+<br />
+
+---
+
+<div align="center">
+
+<a href="https://interactive-portfolio-six-eta.vercel.app">Portfolio</a> &nbsp;•&nbsp; <a href="https://github.com/PTejasKr">GitHub</a> &nbsp;•&nbsp; <a href="mailto:punyaptejaskumar@gmail.com">Email</a>
+
 </div>
