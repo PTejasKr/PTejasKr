@@ -27,6 +27,7 @@
 ├────────────────────────────────────────────────────────────────────────────────────────────────┤
 │  ⚡ [OS-26]              Interactive 3D Hard Drive, LRU Memory Swap Workbench & ASCII Blueprints│
 │  🤖 [ANDA]               Autonomous Desktop Butler, Background Daemon, Go Proxy, Cloudflare    │
+│  🎙️ [Bob]                Sub-150ms Kalos Pokédex Voice RAG (FastAPI, LanceDB, Groq LPU, React)│
 │  📦 [Capsule-v2]         CI/CD Changelog Engine, Celery Distributed Queue, Locust Benchmarks   │
 │  🧠 [Re-Card]            ML Research Paper: Transaction Extraction & Categorization Pipeline   │
 │  💬 [Chat-YO]            Real-Time Ephemeral WebSockets Chatroom with Time-To-Clear Eviction   │
@@ -101,7 +102,12 @@
 | Application | Technology | Live URL | Deployment Health |
 |:---|:---|:---|:---:|
 | **OS-26** | Three.js / WebGL | [os26-tejaskp.vercel.app](https://os26-tejaskp.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| **Bob (Kalos Pokédex)** | React 19 / FastAPI / LanceDB | [frontend-psi-swart-66.vercel.app](https://frontend-psi-swart-66.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | **AlphaXGen** | Next.js / Tailwind | [alphaxgen.in](https://alphaxgen.in) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| **LataTea** | React / Vite / Tailwind | [latatea.vercel.app](https://latatea.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| **Interactive Portfolio** | TypeScript / GSAP / Supabase | [interactive-portfolio-six-eta.vercel.app](https://interactive-portfolio-six-eta.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| **Daayre.ai** | React / Convex DB | [daayre-ai.vercel.app](https://daayre-ai.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| **Dynamic QR** | Next.js 16 / Tailwind | [dynamic-qr-opal.vercel.app](https://dynamic-qr-opal.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | **Capsule** | Next.js / Static | [capsule-opal-nine.vercel.app](https://capsule-opal-nine.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | **Enrique & Co.** | Next.js / SSR | [enrique-co-github-io.vercel.app](https://enrique-co-github-io-tejaskps-projects.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | **Velo Agent** | React / Tailwind | [velo-agent.vercel.app](https://velo-agent.vercel.app) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
