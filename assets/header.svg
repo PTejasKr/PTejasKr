@@ -1,0 +1,31 @@
+<svg width="900" height="170" viewBox="0 0 900 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="170" rx="12" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="899" height="169" rx="11.5" stroke="#21262D"/>
+
+  <!-- Subtle architectural top rule -->
+  <line x1="260" y1="32" x2="640" y2="32" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Tall condensed display typography -->
+  <g transform="translate(450, 92) scale(0.92, 1.28)">
+    <text
+      x="0"
+      y="0"
+      text-anchor="middle"
+      fill="#F0F6FC"
+      font-family="'Bahnschrift', 'DIN Condensed', 'Arial Narrow', 'Roboto Condensed', 'Helvetica Neue', sans-serif"
+      font-size="44"
+      font-weight="700"
+      letter-spacing="7">P. TEJAS KUMAR</text>
+  </g>
+
+  <!-- Clean professional subtitle -->
+  <text
+    x="450"
+    y="138"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-family="'SF Pro Text', 'Inter', 'Segoe UI', system-ui, sans-serif"
+    font-size="13"
+    font-weight="500"
+    letter-spacing="3.5">SYSTEMS ARCHITECT  •  FULL-STACK ENGINEER  •  APPLIED AI</text>
+</svg>
