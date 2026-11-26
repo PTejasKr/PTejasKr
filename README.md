@@ -11,6 +11,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://interactive-portfolio-six-eta.vercel.app)
 [![OS-26](https://img.shields.io/badge/OS--26-111111?style=flat-square&logo=three.js&logoColor=white)](https://os26-tejaskp.vercel.app)
 [![Bob](https://img.shields.io/badge/Bob%20RAG-111111?style=flat-square&logo=fastapi&logoColor=white)](https://bob-pokedex.vercel.app)
+[![Capsule-v2](https://img.shields.io/badge/Capsule--v2-111111?style=flat-square&logo=githubactions&logoColor=white)](https://capsule-v2.vercel.app)
+[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-38%2B%20Merged%20PRs-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/PTejasKr?tab=achievements)
 [![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:punyaptejaskumar@gmail.com)
 
 </div>
